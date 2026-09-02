@@ -28,19 +28,6 @@ Seven outcomes are evaluated:
 Where data are available, analyses are conducted at four follow-up periods: post-intervention, short term, mid term, and long term. Outcome–time combinations with insufficient data are skipped automatically.
 
 
-## Outputs
-
-Depending on data availability and network connectivity, the workflows generate:
-
-- Network plots in SVG and JPEG formats.
-- Forest plots in SVG and JPEG formats.
-- League tables in Excel format.
-- P-score tables in Excel format.
-- Model estimates, heterogeneity statistics, and consistency assessments in Excel format.
-- A record of the R session and package versions.
-
-The files in `results/` are generated outputs and do not replace the private input dataset.
-
 ## Data availability
 
 The study-level dataset used for this network meta-analysis is not publicly available. It may be made available by the corresponding author on reasonable request, subject to approval by the study team and any applicable data-use conditions.
