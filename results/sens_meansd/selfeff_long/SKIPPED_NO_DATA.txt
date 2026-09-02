@@ -1,0 +1,4 @@
+Outcome: Self-efficacy
+Time window: long_term
+Status: Skipped (no analysable data)
+Reason: No analysable study arms remain after excluding arms with no data for this time window.
